@@ -1,0 +1,4 @@
+body{ background-color: blue; height: 100vh}
+.box{width: 100px; height: 100px; background-color:black; padding:5px; margin-bottom: 5px; border: 2px red}
+.outer{width: 200px; height: 200px; background-color: blue}
+.inner{width: 50px; height: 50px; background-color: red}
